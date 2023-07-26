@@ -26,37 +26,37 @@ const overview = {
             desc : "6.78-inch (2220x2080)"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/482/482484.png",
             name : "Processor",
             desc : "MediaTek Dimensity 7050"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/6212/6212257.png",
             name : "Front Camera",
             desc : "Unspecified"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/7275/7275831.png",
             name : "Rear Camera",
             desc : "50MP"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/707/707577.png",
             name : "RAM",
             desc : "8GB"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/542/542646.png",
             name : "Storage",
             desc : "256GB"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/7020/7020552.png",
             name : "Battery Capacity",
             desc : "4700mAh"
         },
         {
-            img : "https://cdn-icons-png.flaticon.com/128/2633/2633329.png",
+            img : "https://cdn-icons-png.flaticon.com/128/10226/10226232.png",
             name : "OS",
             desc : "Android 13"
         } 
@@ -108,6 +108,35 @@ const features = [
             "Processor make" :"MediaTek Dimensity 7050",                   
             "RAM" :"8GB",                   
             "Internal storage" :"256GB"
+        }
+    },
+    {
+        name : "Camera",
+        rows : {
+            "Rear camera" : "50-megapixel",
+            "No. of Rear Cameras" : "4",
+            "Front camera" : "Unspecified",
+            "No. of Front Cameras" : "1"
+        }
+    },
+    {
+        name : "Software",
+        rows : {
+            "Operating system" : "Android 13"
+        }
+    },
+    {
+        name : "Connectivity",
+        rows : {
+            "Wi-Fi" : "Yes",
+            "GPS" : "Yes",
+            "Bluetooth" : "Yes"
+        }
+    },
+    {
+        name : "Sensors",
+        rows : {
+            "In-Display Fingerprint Sensor" : "Yes"
         }
     }
 
